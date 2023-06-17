@@ -65,5 +65,5 @@ commandTransformation = "JINJA:{\"msgtype\":\"m.text\", \"body\":\"{{value}}\"}"
 ## Further Reading
 
 * Wikipedia on [Jinja](https://en.wikipedia.org/wiki/Jinja_(template_engine).
-* Home assistant [discovery](https://www.home-assistant.io/docs/mqtt/discovery/).
+* Home assistant [discovery]([https://www.home-assistant.io/docs/mqtt/discovery/](https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery)).
 * Home assistant [templating](https://www.home-assistant.io/docs/configuration/templating/).
